@@ -3,6 +3,14 @@
 Bu depo, kaynak CloudStream depolarını aynalayan ve "Pamuk VIP" başlıkları için
 `repo.json` / `plugins.json` üreten bir derleme projesidir. Üretici: `tools/pamuk.py`.
 
+## Zorunlu doküman
+
+Proje kökünde **`KULLANMA KLAVUZU ve FİNAL PROMTU.md`** bulunmak zorundadır. Dosya yoksa
+oluşturulur. Her revizyon, iyileştirme ve ilaveden sonra bu dosya güncellenir; ad, amaç,
+kullanım alanları, yetenek listesi, kullanım kılavuzu, güncel durum, son yapılan değişiklikler
+ve projeyi sıfırdan üreten final prompt bölümleri güncel tutulur. **Geçmiş saklanmaz**, yalnızca
+güncel bilgiler yazılır.
+
 ## Oturum başlangıcı (zorunlu)
 
 Her yeni oturumda, kullanıcı bir şey istemeden önce:
@@ -37,6 +45,8 @@ git add -A && git commit -m "Kaynak güncellemeleri: ..."
 | `state/upstream.lock.json`, `state/build-summary.json` | `pamuk.py sync` |
 | `plugins/**/*.cs3` | `pamuk.py sync` |
 | `reports/last-check.md` | `pamuk.py check` |
+
+Ayrıca her revizyonda elle güncellenir: `KULLANMA KLAVUZU ve FİNAL PROMTU.md`.
 
 Kalıcı değişiklikler şu dosyalarda yapılır:
 
