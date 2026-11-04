@@ -658,7 +658,7 @@ def classify(entry: dict, source: dict, cls: dict) -> list[str]:
         sport_hit = source["id"] == "spor" or any(
             keyword in key for keyword in cls.get("sportKeywords", [])
         )
-        groups.append("spor" if sport_hit else "tv")
+        groups.append("spor" if sport_hit else "canli")
     else:
         groups.append(primary_group(key, types, cls))
 
@@ -678,7 +678,7 @@ def primary_group(key: str, types: list[str], cls: dict) -> str:
         return "spor"
 
     keywords = cls.get("groupKeywords") or {}
-    for group_id in ("anime", "belgesel", "dizi", "film", "tv"):
+    for group_id in ("anime", "belgesel", "dizi", "film", "canli"):
         if any(word in key for word in keywords.get(group_id, [])):
             return group_id
 
@@ -693,7 +693,7 @@ def primary_group(key: str, types: list[str], cls: dict) -> str:
         return "film"
     if "documentary" in type_set:
         return "belgesel"
-    return "tv"
+    return "canli"
 
 
 def dedupe(entries: list[dict], cfg: dict) -> list[dict]:

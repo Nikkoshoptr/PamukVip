@@ -58,9 +58,9 @@ Kalıcı değişiklikler şu dosyalarda yapılır:
 
 - `adult`: kaynak `adult` ise, `tvTypes` içinde `NSFW` varsa veya ad `adultKeywords`
   listesine uyuyorsa.
-- `live` türü → `spor` (kaynak SPOR ya da ad `sportKeywords` ile eşleşiyorsa), aksi halde `tv`.
+- `live` türü → `spor` (kaynak SPOR ya da ad `sportKeywords` ile eşleşiyorsa), aksi halde `canli`.
 - Diğer eklentiler ad sinyaline (`groupKeywords`) göre tek ana başlığa atanır:
-  `anime → belgesel → dizi → film → tv`.
+  `anime → belgesel → dizi → film → canli`.
 - Türkçe dışı (`language != tr`) eklentiler ayrıca `dunya` başlığına eklenir.
 - Elle atama için `config/pamuk.json` → `classification.pins` kullanılır
   (`{"EklentiAdi": "film"}` veya `{"EklentiAdi": ["film", "dizi"]}`).

@@ -3,7 +3,7 @@
 Pamuk VIP, **8 başlık** altında **285 eklenti** sunan bir CloudStream deposudur. Tüm eklenti dosyaları bu depoda aynalanır; kaynak depolar güncellendikçe buradaki sürümler de güncellenir.
 
 - Depo: <https://github.com/Nikkoshoptr/PamukVip>
-- Son derleme: **04.11.2026 18:29**
+- Son derleme: **04.11.2026 18:49**
 
 ## Kurulum
 
@@ -24,7 +24,7 @@ Her başlık ayrı bir depo olarak da eklenebilir. Tek başlık eklerseniz yaln�
 | Başlık | Eklenti | Depo linki |
 | --- | ---: | --- |
 | **Pamuk VIP** (ana) | 285 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/repo.json |
-| **Pamuk TV** | 25 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/repo.json |
+| **Pamuk Canlı** | 25 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/canli/repo.json |
 | **Pamuk Spor** | 35 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/spor/repo.json |
 | **Pamuk Dizi** | 43 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dizi/repo.json |
 | **Pamuk Film** | 51 | https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/film/repo.json |

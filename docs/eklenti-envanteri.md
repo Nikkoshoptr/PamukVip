@@ -1,11 +1,11 @@
 # Pamuk VIP — Eklenti Envanteri
 
-- Derleme: 04.11.2026 18:29
+- Derleme: 04.11.2026 18:49
 - Toplam benzersiz eklenti: **285**
 
 Aynı eklenti birden fazla başlıkta yer alabilir; bu liste başlık bazlıdır.
 
-## Pamuk TV (25)
+## Pamuk Canlı (25)
 
 | Eklenti | Sürüm | Tür | Dil |
 | --- | ---: | --- | --- |

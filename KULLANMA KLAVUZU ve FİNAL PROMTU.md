@@ -22,7 +22,7 @@
 
 Altı ayrı Türkçe CloudStream eklenti deposunu **tek çatı altında** toplamak: eklentileri kendi
 GitHub deposunda aynalamak, kaynak depolar güncellendiğinde değişiklikleri tespit etmek,
-kullanıcı onayıyla aktarmak ve içerikleri **başlık başlık** (TV, Spor, Dizi, Film, Belgesel,
+kullanıcı onayıyla aktarmak ve içerikleri **başlık başlık** (Canlı, Spor, Dizi, Film, Belgesel,
 Anime, Dünya, Adult) ayrı linklerle sunmak.
 
 ## 3. Kullanım alanları
@@ -71,7 +71,7 @@ Anime, Dünya, Adult) ayrı linklerle sunmak.
 | Başlık | Eklenti | Depo linki |
 | --- | ---: | --- |
 | **Pamuk VIP** (ana) | 285 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/repo.json` |
-| Pamuk TV | 25 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/repo.json` |
+| Pamuk Canlı | 25 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/canli/repo.json` |
 | Pamuk Spor | 35 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/spor/repo.json` |
 | Pamuk Dizi | 43 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dizi/repo.json` |
 | Pamuk Film | 51 | `https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/film/repo.json` |
@@ -178,7 +178,7 @@ AGENTS.md                        oturum kuralları (check zorunluluğu)
 | Depo boyutu (git) | ~25 MB |
 | Son kontrol sonucu | Kaynaklarda güncelleme yok |
 
-Başlık dağılımı: TV 25, Spor 35, Dizi 43, Film 51, Belgesel 3, Anime 12, Dünya 11, Adult 117.
+Başlık dağılımı: Canlı 25, Spor 35, Dizi 43, Film 51, Belgesel 3, Anime 12, Dünya 11, Adult 117.
 Belgesel sayısı düşüktür çünkü kaynaklarda belgesel türünde yalnızca 3 eklenti var.
 
 ## 9. Son yapılan değişiklikler (güncel)
@@ -188,6 +188,8 @@ Belgesel sayısı düşüktür çünkü kaynaklarda belgesel türünde yalnızca
 - Sınıflandırma tek ana başlığa indirildi (upstream'in geniş `tvTypes` alanı yüzünden listeler
   birbirinin kopyası oluyordu); Türkçe dışı eklentiler ek olarak `dunya` başlığına alındı.
 - `İnfluencerChicks` gibi Türkçe karakterli adresler için URL yüzde kodlaması eklendi.
+- "Pamuk TV" başlığı **Pamuk Canlı** olarak yeniden adlandırıldı; link yolu `builds/tv/` → `builds/canli/`
+  olarak değişti (grup kimliği de `canli`), eski `builds/tv/` klasörü kaldırıldı.
 - `pamuk.cmd` CRLF satır sonuna alındı ve `.gitattributes` ile sabitlendi (batch dosyası LF ile bozuluyordu).
 - `reports/` git takibinden çıkarıldı (her kontrolde değişen üretilmiş rapor).
 - `KULLANMA KLAVUZU ve FİNAL PROMTU.md` eklendi; `AGENTS.md`'ye bu dosyanın her revizyonda
@@ -241,7 +243,7 @@ alanlarıyla kaydet; manifestUrl ile pluginsJson ikisini de tut, givenUrls ile v
   adult: true
 
 BAŞLIKLAR (config/pamuk.json -> groups; sıra önemli)
-tv=Pamuk TV, spor=Pamuk Spor, dizi=Pamuk Dizi, film=Pamuk Film, belgesel=Pamuk Belgesel,
+canli=Pamuk Canlı, spor=Pamuk Spor, dizi=Pamuk Dizi, film=Pamuk Film, belgesel=Pamuk Belgesel,
 anime=Pamuk Anime, dunya=Pamuk Dunya, adult=Pamuk Adult (18+).
 Ana/agregate liste kimliği: pamuk-vip, adı "Pamuk VIP".
 Depo kimliği: owner=Nikkoshoptr, slug=PamukVip, branch=main,
@@ -268,8 +270,8 @@ KURALLAR
   fileHash "sha256-<hex>", varsa iconUrl.
 - repo.json: name, description, manifestVersion=1, pluginLists=[mutlak url], lastUpdated, pluginCount.
 - Sınıflandırma: kaynak adult ise / tvTypes içinde NSFW varsa / ad adultKeywords'e uyuyorsa => adult.
-  live türü => kaynak "spor" ise ya da ad sportKeywords'e uyuyorsa spor, değilse tv.
-  Diğerleri: önce ad sinyali (groupKeywords: anime -> belgesel -> dizi -> film -> tv),
+  live türü => kaynak "spor" ise ya da ad sportKeywords'e uyuyorsa spor, değilse canli.
+  Diğerleri: önce ad sinyali (groupKeywords: anime -> belgesel -> dizi -> film -> canli),
   sonra tür sinyali; her eklenti TEK ana başlığa atanır. language != tr ise ayrıca dunya.
   Elle atama: classification.pins {"Ad": "film"} veya {"Ad": ["dizi","dunya"]}, "skip" ile dışla.
 - Tekilleştirme: aynı internalName için en yüksek sürüm; eşitlikte

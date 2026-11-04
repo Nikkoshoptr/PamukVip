@@ -1,19 +1,19 @@
 {
-  "builtAt": "2026-11-04T18:29:17+03:00",
+  "builtAt": "2026-11-04T18:49:17+03:00",
   "rawBase": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main",
   "mainRepoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/repo.json",
   "mainPluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/pamuk-vip/plugins.json",
   "totalUnique": 285,
   "groups": [
     {
-      "id": "tv",
-      "name": "Pamuk TV",
+      "id": "canli",
+      "name": "Pamuk Canlı",
       "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
       "count": 25,
       "adult": false,
-      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/plugins.json",
-      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/repo.json",
-      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/tv/repo.json"
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/canli/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/canli/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/canli/repo.json"
     },
     {
       "id": "spor",

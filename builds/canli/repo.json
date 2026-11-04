@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Canlı",
+  "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/canli/plugins.json"
+  ],
+  "lastUpdated": 1793807357,
+  "pluginCount": 25
+}

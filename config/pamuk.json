@@ -11,8 +11,8 @@
   "aggregateId": "pamuk-vip",
   "groups": [
     {
-      "id": "tv",
-      "name": "Pamuk TV",
+      "id": "canli",
+      "name": "Pamuk Canlı",
       "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
       "order": 1
     },
@@ -74,7 +74,7 @@
       "belgesel": ["belgesel", "documentary", "dmax", "natgeo", "discovery"],
       "dizi": ["dizi", "drama", "series", "korea", "asyadizi"],
       "film": ["film", "sinema", "movie", "cine", "sine"],
-      "tv": ["kanal", "canli", "radyo", "tlc", "atv", "showtv", "startv", "tv8", "tabii", "huhutr"]
+      "canli": ["kanal", "canli", "radyo", "tlc", "atv", "showtv", "startv", "tv8", "tabii", "huhutr"]
     },
     "sportKeywords": [
       "spor", "sport", "sports", "goal", "taraftar", "streamed", "betmatik",
