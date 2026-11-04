@@ -1176,7 +1176,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "NSFW"
     ],
     "authors": [
       "MRC"
@@ -2058,7 +2058,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "NSFW"
     ],
     "authors": [
       "PARS"
@@ -2100,7 +2100,7 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "Movie"
+      "NSFW"
     ],
     "authors": [
       "PARS"
@@ -2222,7 +2222,7 @@
     "apiVersion": 1,
     "language": "ru",
     "tvTypes": [
-      "Live"
+      "NSFW"
     ],
     "authors": [
       "PARS"
@@ -2242,7 +2242,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "NSFW"
     ],
     "authors": [
       "PARS"
@@ -2262,7 +2262,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "NSFW"
     ],
     "authors": [
       "PARS"

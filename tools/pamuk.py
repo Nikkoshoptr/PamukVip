@@ -720,7 +720,7 @@ def dedupe(entries: list[dict], cfg: dict) -> list[dict]:
     return sorted(best.values(), key=lambda item: str(item["name"]).casefold())
 
 
-def publish_shape(entry: dict) -> dict:
+def publish_shape(entry: dict, group_id: str | None = None) -> dict:
     payload = {
         "name": entry["name"],
         "internalName": entry["internalName"],
@@ -735,6 +735,9 @@ def publish_shape(entry: dict) -> dict:
         "repositoryUrl": entry["repositoryUrl"],
         "fileSize": int(entry.get("fileSize") or 0),
     }
+    # Adult grupları için tvTypes'i NSFW yap (CloudStream'ta 'Supported: NSFW' gösterir)
+    if group_id == "adult" and "nsfw" not in (payload["tvTypes"] or []):
+        payload["tvTypes"] = ["NSFW"]
     if entry.get("fileHash"):
         payload["fileHash"] = entry["fileHash"]
     if entry.get("iconUrl"):
@@ -822,7 +825,7 @@ def cmd_build(_args: argparse.Namespace) -> int:
         if not items:
             print(f"  uyarı: {group['name']} boş, atlanıyor")
             continue
-        payload = [publish_shape(item) for item in items]
+        payload = [publish_shape(item, gid) for item in items]
         target_dir = BUILDS_DIR / gid
         write_json(target_dir / "plugins.json", payload)
         list_url = f"{base}/builds/{gid}/plugins.json"

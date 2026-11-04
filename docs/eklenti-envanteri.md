@@ -1,6 +1,6 @@
 # Pamuk VIP — Eklenti Envanteri
 
-- Derleme: 04.11.2026 18:49
+- Derleme: 04.11.2026 22:34
 - Toplam benzersiz eklenti: **285**
 
 Aynı eklenti birden fazla başlıkta yer alabilir; bu liste başlık bazlıdır.
@@ -282,7 +282,7 @@ Aynı eklenti birden fazla başlıkta yer alabilir; bu liste başlık bazlıdır
 | Max | v1 | NSFW | en |
 | MilfNut | v3 | NSFW | en |
 | MissAV | v7 | NSFW | en |
-| MRC-Naughty | v4 | Movie | tr |
+| MRC-Naughty | v4 | NSFW | tr |
 | NetFapX | v7 | NSFW | en |
 | NoodleMagazine | v4 | NSFW | en |
 | Notmik | v4 | NSFW | tr |
@@ -326,17 +326,17 @@ Aynı eklenti birden fazla başlıkta yer alabilir; bu liste başlık bazlıdır
 | Whoreshub | v2 | NSFW | en |
 | Wumaobi | v2 | NSFW | en |
 | XChina | v4 | NSFW | zh |
-| XHamster | v4 | Movie | tr |
+| XHamster | v4 | NSFW | tr |
 | Xhamster | v12 | NSFW | en |
-| XHamsterTiktok | v4 | Movie | en |
+| XHamsterTiktok | v4 | NSFW | en |
 | XMoviesForYou | v11 | NSFW | en |
 | XNalgas | v4 | NSFW | es |
 | Xpaja | v9 | NSFW | es |
 | XRares | v2 | NSFW | en |
 | xVideos | v7 | NSFW | en |
-| XXXCanli | v4 | Live | ru |
-| XXXPARS1 | v4 | Movie | tr |
-| XXXPARS2 | v4 | Movie | tr |
+| XXXCanli | v4 | NSFW | ru |
+| XXXPARS1 | v4 | NSFW | tr |
+| XXXPARS2 | v4 | NSFW | tr |
 | XXXTime | v1 | NSFW | en |
 | Yesporn | v2 | NSFW | en |
 | YouJizz | v3 | NSFW | en |
