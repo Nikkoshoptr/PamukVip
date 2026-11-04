@@ -1,6 +1,6 @@
 # Pamuk VIP — Eklenti Envanteri
 
-- Derleme: 04.11.2026 22:34
+- Derleme: 04.11.2026 22:44
 - Toplam benzersiz eklenti: **285**
 
 Aynı eklenti birden fazla başlıkta yer alabilir; bu liste başlık bazlıdır.

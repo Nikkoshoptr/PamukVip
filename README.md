@@ -3,7 +3,7 @@
 Pamuk VIP, **8 başlık** altında **285 eklenti** sunan bir CloudStream deposudur. Tüm eklenti dosyaları bu depoda aynalanır; kaynak depolar güncellendikçe buradaki sürümler de güncellenir.
 
 - Depo: <https://github.com/Nikkoshoptr/PamukVip>
-- Son derleme: **04.11.2026 22:34**
+- Son derleme: **04.11.2026 22:44**
 
 ## Kurulum
 

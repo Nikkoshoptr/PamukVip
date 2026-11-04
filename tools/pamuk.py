@@ -851,7 +851,7 @@ def cmd_build(_args: argparse.Namespace) -> int:
         print(f"  {group['name']:<14} {len(payload):>4} eklenti → builds/{gid}/")
 
     aggregate = dedupe(entries, cfg)
-    aggregate_payload = [publish_shape(item) for item in aggregate]
+    aggregate_payload = [publish_shape(item, "adult") for item in aggregate]
     agg_id = cfg.get("aggregateId") or "pamuk-vip"
     agg_dir = BUILDS_DIR / agg_id
     write_json(agg_dir / "plugins.json", aggregate_payload)
