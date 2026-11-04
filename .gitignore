@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# Üretilen kontrol raporları (her oturumda yenilenir)
+reports/
+
 # Geçici dosyalar
 *.tmp
 *.bak
