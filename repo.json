@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk VIP",
+  "description": "Pamuk VIP — Türkçe CloudStream eklenti deposu. TV, spor, dizi, film, belgesel, anime, dünya ve 18+ başlıkları tek çatı altında.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/pamuk-vip/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 285
+}

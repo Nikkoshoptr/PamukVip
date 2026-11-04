@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Anime",
+  "description": "Anime, çizgi dizi ve animasyon kaynakları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/anime/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 12
+}

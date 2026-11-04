@@ -1,0 +1,250 @@
+[
+  {
+    "name": "AnimeAV",
+    "internalName": "AnimeAV",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeAV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "mx",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Disfruta de los ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºltimos episodios y animes agregados en HD y Sub EspaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±ol. Miles de series, pelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­culas y OVAs disponibles para ver online totalmente gratis.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27763,
+    "fileHash": "sha256-de0252e7b492a0098a4e82c547428437dc4d336316170a113b098fd2a302f9bd",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com"
+  },
+  {
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeciX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "AnimeciX, animeleri keÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸fedebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz ve animeler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda her ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸eyi ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸renebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz bir paylaÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±m platformudur.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27403,
+    "fileHash": "sha256-32c39519116dfecabe911eba5ccbac08dc365cd1c2c71379e7447439d5f2ce7b",
+    "iconUrl": "https://anm.cx/favicon.ico"
+  },
+  {
+    "name": "AnimeWorld",
+    "internalName": "AnimeWorld",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeWorld.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "it",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualitÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â , disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 14967,
+    "fileHash": "sha256-159268c8db94a80e3e7d44de35c8d3f46a2acb963cce1e1ce86dc2adca5361e8",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128"
+  },
+  {
+    "name": "AnimeYTX",
+    "internalName": "AnimeYTX",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeYTX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "mx",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡nete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡s popular de la animaciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n japonesa.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 45493,
+    "fileHash": "sha256-5c4fb85081557129fbea43cbc902c5614caf5d8a74024c4ea28af2591d403dbf",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128"
+  },
+  {
+    "name": "Anizium",
+    "internalName": "Anizium",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Anizium.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Anizium - TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve dublajlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± anime ile anime film arÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ivi.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 17589,
+    "fileHash": "sha256-5e00fc9d30e07c03f7c2ddb6d4f6232567e2e151332ff69f3041e547d4b74d55",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=anizium.co"
+  },
+  {
+    "name": "Anizm",
+    "internalName": "Anizm",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Anizm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zle.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 68933,
+    "fileHash": "sha256-5fe115430f104cdeaf4aa965c56c4c3a7d30a19b4762e875cd444160b71c2df5",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s"
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AsyaAnimeleri.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Asya Animeleri - Anime izle, Donghua izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime izle.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 31969,
+    "fileHash": "sha256-ba7c1661d88617804c0b719bfe67abf0fb100799f5f29b551cc445feabe35f5d",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%"
+  },
+  {
+    "name": "CizgiDizi",
+    "internalName": "CizgiDizi",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/CizgiDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "Anime",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgiDizi - ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§izgi filmler, animeler ve diziler; reklamsÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z ve kesintisiz izleme.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 67982,
+    "fileHash": "sha256-4023a9afe81e5fa98ea0fe6958838ed2d0561a3f078fdeb0008ff4d14c7e6e6f",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=%size%"
+  },
+  {
+    "name": "CizgiMax",
+    "internalName": "CizgiMax",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/CizgiMax.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "Anime",
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgiMax ile ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgi Film izlemek artÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±k daha kolay, donmadan full hd ve reklamsÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z bir sitedir, iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erisinde 700 den fazla ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§izgi film olan, Bu site bu iÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸i profesyonelce yapÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±yor.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 77630,
+    "fileHash": "sha256-6334dca76f42b5bc581f0eb3654569a5ecdb63d5dd208b26f6cd009348c8d955",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%"
+  },
+  {
+    "name": "CizgiVeDizi",
+    "internalName": "CizgiVeDizi",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/CizgiVeDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgi ve Dizi - ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§izgi filmler, diziler, animeler ve filmler; reklamsÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z ve kesintisiz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 34237,
+    "fileHash": "sha256-1ebde4ae3541c53c64943e2d6ef98f6c37c260a062aa66f41b0d8098d373b3d6",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgivedizi.net&sz=%size%"
+  },
+  {
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "version": 13,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/OpenAnime.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "OpenAnime - AÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±k Kaynak Anime Platformu.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27887,
+    "fileHash": "sha256-a5a6fe6925b614a340eec5c74455da60c19148b6aba1d2d0d3ca1f6ae885b8d5",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=openani.me&sz=%size%"
+  },
+  {
+    "name": "Supercartoons",
+    "internalName": "Supercartoons",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Supercartoons.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 11630,
+    "fileHash": "sha256-deedfee516a544e5f634dac850c6f97dcc881ab85a19fa4974c10d712f5a7af9",
+    "iconUrl": "https://i.imgur.com/LBfX2k3.png"
+  }
+]

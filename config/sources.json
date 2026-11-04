@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "note": "Pamuk VIP kaynak depoları. Güncelleme kontrolü bu dosyadaki adresler üzerinden yapılır; yeni kaynak eklemek için listeye yeni bir kayıt ekleyin.",
+  "sources": [
+    {
+      "id": "pars",
+      "label": "PARS",
+      "title": "PARS CloudStream Builds",
+      "repoUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+      "manifestUrl": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/repo.json",
+      "pluginsJson": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/plugins.json",
+      "givenUrls": [
+        "https://github.com/punistek/PARS-CloudStream-Builds",
+        "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/plugins.json"
+      ],
+      "note": "Türkçe dizi/film/canlı TV ağırlıklı; içindeki yetişkin eklentiler Pamuk Adult başlığına yönlendirilir."
+    },
+    {
+      "id": "spor",
+      "label": "SPOR",
+      "title": "WioSpor",
+      "repoUrl": "https://github.com/Wiojelt/WioSpor",
+      "manifestUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/repo.json",
+      "pluginsJson": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/plugins.json",
+      "givenUrls": [
+        "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/repo.json"
+      ],
+      "note": "Canlı spor ve IPTV kanalları."
+    },
+    {
+      "id": "turk",
+      "label": "TURK",
+      "title": "WioSinema",
+      "repoUrl": "https://github.com/Wiojelt/WioSinema",
+      "manifestUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json",
+      "pluginsJson": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/plugins.json",
+      "givenUrls": [
+        "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json"
+      ],
+      "note": "TMDB destekli birleşik Türkçe sinema ve dizi eklentileri."
+    },
+    {
+      "id": "mrc",
+      "label": "MRC",
+      "title": "MRC - CloudStream Türkçe Eklenti Deposu",
+      "repoUrl": "https://github.com/lepotane/MRC-builds",
+      "manifestUrl": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json",
+      "pluginsJson": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/plugins.json",
+      "givenUrls": [
+        "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json"
+      ],
+      "note": "Türkçe dizi, film, anime ve canlı kanallar."
+    },
+    {
+      "id": "karayel",
+      "label": "KARAYEL",
+      "title": "Türkçe Cloudstream Eklentileri",
+      "repoUrl": "https://github.com/karayel90/cloudplug",
+      "manifestUrl": "https://raw.githubusercontent.com/karayel90/cloudplug/refs/heads/main/repo.json",
+      "pluginsJson": "https://raw.githubusercontent.com/karayel90/cloudplug/refs/heads/builds/plugins.json",
+      "givenUrls": [
+        "https://raw.githubusercontent.com/karayel90/cloudplug/refs/heads/main/repo.json"
+      ],
+      "note": "Tabii başta olmak üzere canlı yayın eklentileri."
+    },
+    {
+      "id": "adult",
+      "label": "XXX +18",
+      "title": "Cs-GizliKeyif",
+      "repoUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+      "manifestUrl": null,
+      "pluginsJson": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/plugins.json",
+      "givenUrls": [
+        "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/plugins.json"
+      ],
+      "note": "Yalnızca yetişkin (18+) içerik. Pamuk Adult başlığı altında yayınlanır.",
+      "adult": true
+    }
+  ]
+}

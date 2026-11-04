@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Dünya",
+  "description": "Türkçe dışı ve uluslararası içerik kaynakları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dunya/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 11
+}

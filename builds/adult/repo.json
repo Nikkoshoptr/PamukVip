@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Adult",
+  "description": "18+ yetişkin içerik kaynakları. Yalnızca reşit kullanıcılar içindir.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/adult/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 117
+}

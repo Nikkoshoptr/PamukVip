@@ -1,0 +1,8 @@
+{
+  "name": "MRC - CloudStream Türkçe Eklenti Deposu",
+  "description": "CloudStream 3 için Türkçe dizi, film ve anime eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/plugins.json"
+  ]
+}

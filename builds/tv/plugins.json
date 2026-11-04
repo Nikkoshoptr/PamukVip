@@ -1,0 +1,522 @@
+[
+  {
+    "name": "00_PARS_TV",
+    "internalName": "00_PARS_TV",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/00_PARS_TV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "PARS TV"
+    ],
+    "description": "PARS TV Resmî Bilgi, Duyuru ve Tanıtım Merkezi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 17415,
+    "fileHash": "sha256-d059fd75856dbac571593dce44b4b71d90313b15b5c39e2013686e0530c4eddc",
+    "iconUrl": "https://raw.githubusercontent.com/punistek/Maydonoz/main/logo.png"
+  },
+  {
+    "name": "Atv",
+    "internalName": "Atv",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Atv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ATV dizileri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 30542,
+    "fileHash": "sha256-e8c032848f43da68a202a352b72eac67aac8915682a8afc55e8122d97aef7bed",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%"
+  },
+  {
+    "name": "CanliRadyo",
+    "internalName": "CanliRadyo",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CanliRadyo.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "Canlı Radyo - Türkiye'nin radyoları: pop, slow, arabesk, türkü, haber, yerel radyolar.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 22213,
+    "fileHash": "sha256-425ba580849bc8017de8fec4a623a5ccb518fdcf2e7ec4aa431bd15d6d211704",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=canliradyodinle.fm&sz=%size%"
+  },
+  {
+    "name": "CanliTV",
+    "internalName": "CanliTV",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CanliTV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "Canlı TV - seçilmiş Türk kanalları, kategori › alt kategori (geil / vavoo / kool / oha / huhu, otomatik yedek)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 50007,
+    "fileHash": "sha256-d42134ae3c531132656ee74c8d288da6fed2890c2ce90d58ae4fc6269c1d0212",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=vavoo.to&sz=%size%"
+  },
+  {
+    "name": "CanliTV2",
+    "internalName": "CanliTV2",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CanliTV2.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "PuuInadina - İnadına TV kataloğu: Xtream Player panelleri, Canlı TV VİP, Canlı TV (Ulusal), Belgesel ve Sinema kanalları. AppCreator24/e-droid.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 57061,
+    "fileHash": "sha256-6b958264a6145893b6ec13506cdb367e85b24d318f980ab0d19a7a22d075cf7c",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=inadinatv.github.io&sz=%size%"
+  },
+  {
+    "name": "CanliTV3",
+    "internalName": "CanliTV3",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CanliTV3.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "TV ve Radyo bölümü: Türk TV kanalları (kategorili), Türk radyoları (Radio Browser), Alman kanalları.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 29945,
+    "fileHash": "sha256-c5a231b481cc40f34cdf650546dd9d8a4dd87a9e2bff8a775b5f313028726325",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=radio-browser.info&sz=%size%"
+  },
+  {
+    "name": "Dmax",
+    "internalName": "Dmax",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/Dmax.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Documentary",
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 113520,
+    "fileHash": "sha256-f03c1d5fdb4f7fac476a763e6686cd58e40dc5d6a950f65e05797a43e7b52f13",
+    "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png"
+  },
+  {
+    "name": "DMax",
+    "internalName": "DMax",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DMax.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Documentary",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "DMAX belgeselleri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 14427,
+    "fileHash": "sha256-1ff64a206bba9e3084353aba7f755c9053e0e9584bdd071a06af65b68b3c649a",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=%size%"
+  },
+  {
+    "name": "HUHUTR",
+    "internalName": "HUHUTR",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/HUHUTR.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "HUHU Türkiye canlı TV kanalları",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 22340,
+    "fileHash": "sha256-654099d787c5cda463c389c57c8ea99f92f7799d89bead08379fbd2eac188e31",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=huhu.to&sz=%size%"
+  },
+  {
+    "name": "InatBoxBC",
+    "internalName": "InatBoxBC",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/InatBoxBC.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°natBox BC - CanlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± kanallar, spor, film ve diziler.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 54180,
+    "fileHash": "sha256-e530f46bd9cf3c61611d7bea44c7bf4d54a89f3113673b81d3dc702263f0061a",
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png"
+  },
+  {
+    "name": "KanalD",
+    "internalName": "KanalD",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/KanalD.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Kanal D dizileri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 18937,
+    "fileHash": "sha256-a52e9b65384b096fe77e43208377f0376264d1b0790fda134fd86f89599bcef3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kanald.com.tr&sz=%size%"
+  },
+  {
+    "name": "MRC-Live",
+    "internalName": "MRC-Live",
+    "version": 9,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/MRC-Live.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "MRC-Live ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TV / IPTV kanallarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± (TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye ve dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼nya).",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 71551,
+    "fileHash": "sha256-764071d3aa827f4dc03d6495453ea51c29abaf8ec77a9a831b64dad281720079",
+    "iconUrl": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png"
+  },
+  {
+    "name": "PuuBeles",
+    "internalName": "PuuBeles",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/PuuBeles.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "punistek"
+    ],
+    "description": "PUU TiVi — canlı TV, uygulamadaki kategorilerle (TR ★ Ulusal, Spor, Belgesel …)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 20489,
+    "fileHash": "sha256-b70f61ec65ddf0f8a3d3e352e386bd0dacbecc083186a333a12394ef1f83c741",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belestivi.com&sz=%size%"
+  },
+  {
+    "name": "PuuInat",
+    "internalName": "PuuInat",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/PuuInat.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live",
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "PuuInat - İnat Box kataloğu (canlı TV, spor, dizi, film). İmzalı istek + AES çözme + yayın doğrulama.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 50391,
+    "fileHash": "sha256-3b07a21f77eb77491ae35514c706d96f2b4df83c4c328664787e010fd9982aec",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=speedrestapi.com&sz=%size%"
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/RecTV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "RecTV - Canlı TV, Spor, Film ve Dizi sağlayıcısı.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 145660,
+    "fileHash": "sha256-bfbdab89f458c2443f5a471a31a7c9a87b89bf8c7a13e6780f843273f4153441",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png"
+  },
+  {
+    "name": "RecTVBC",
+    "internalName": "RecTVBC",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/RecTVBC.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "RecTV BC - CanlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± kanallar, spor yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, film ve diziler.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 44771,
+    "fileHash": "sha256-d8559f7d96e0eff0b0d5b333d08c537d2c59480a267003546dcd46f8b33491d6",
+    "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp"
+  },
+  {
+    "name": "ShowTV",
+    "internalName": "ShowTV",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/ShowTV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "Show TV dizilerini ve bölümlerini doğrudan ShowTV üzerinden otomatik listeler.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 40954,
+    "fileHash": "sha256-a2cc72c0b037dc1b2c1a724e028128f8dea4024e39db5259ebe71c367f374f38",
+    "iconUrl": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png"
+  },
+  {
+    "name": "Showtv",
+    "internalName": "Showtv",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Showtv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Show TV dizileri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 25851,
+    "fileHash": "sha256-16df6ac10fd900ed1f96835d7b20f792273ee81e3a9c48cbc42dc19072aaf5be",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%"
+  },
+  {
+    "name": "StarTv",
+    "internalName": "StarTv",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/StarTv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "startv.com.tr - Star TV dizileri (yayındaki + arşiv, tüm bölümler, HLS)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27064,
+    "fileHash": "sha256-0b01c181d098419367c55c78676549ff3f18c9adc1019d26ef154fbe36a3626b",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=startv.com.tr&sz=128"
+  },
+  {
+    "name": "Startv",
+    "internalName": "Startv",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Startv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Star TV dizileri ve programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37329,
+    "fileHash": "sha256-6c33152bd08f78fe21e123e6e1d58776109730f39f83d148c0461da24b6ad78b",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%"
+  },
+  {
+    "name": "TabiiProvider",
+    "internalName": "TabiiProvider",
+    "version": 37,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/karayel/TabiiProvider.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "karayel90"
+    ],
+    "description": "Türkiye'nin canlı TV kanalları: tabii kanalları (TRT 1, TRT 2, TRT Spor, TRT Haber, TRT Çocuk, TRT Belgesel, TRT Müzik, TRT Türk, TRT Kürdi, TRT Arapî, TRT Avaz, TRT WORLD, TRT Genç, TRT eba), doğrudan HLS spor kanalları (beIN SPORTS, S Sport, Tivibu Spor) ve TR Kanalları (TV8, ATV, Star TV, DMAX ve daha fazlası; topluluk M3U listesinden otomatik güncellenir).",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 71480,
+    "fileHash": "sha256-fbfb2fd9783f9d7185ffeaa2ecd5a4cbabc1f4795b654e4b948bac10960af811",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tabii.com&sz=%size%"
+  },
+  {
+    "name": "TLC",
+    "internalName": "TLC",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/TLC.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TLC dizileri, yaÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸am ve eÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸lence programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 14440,
+    "fileHash": "sha256-f0de051bbc7ed3e043fe4e6e7e0c208f1d1607146633c81d769ec2e727ecc151",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%"
+  },
+  {
+    "name": "TLCtr",
+    "internalName": "TLCtr",
+    "version": 22,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/TLCtr.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "TLC tr",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 16774,
+    "fileHash": "sha256-c8787bff6a75ab03aa8e758b4ab49ad3cb64fb1a4b5b368500b4f640be9b1297",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%"
+  },
+  {
+    "name": "Tlctr",
+    "internalName": "Tlctr",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/Tlctr.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 108169,
+    "fileHash": "sha256-f81006b91b12dc76737309eece58fc7e1053a95db2c29d87ed42dfee1def7ece",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128"
+  },
+  {
+    "name": "Tv8",
+    "internalName": "Tv8",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Tv8.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TV8 programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, yarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸malarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, dizileri ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 19859,
+    "fileHash": "sha256-093676f7cdf2c6899aaff128c4512a23d3ea64e42cd27b1d4904b388b4eb980c",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%"
+  }
+]

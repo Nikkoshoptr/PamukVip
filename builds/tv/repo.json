@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk TV",
+  "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 25
+}

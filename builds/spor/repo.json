@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Spor",
+  "description": "Canlı spor yayınları, maç linkleri ve spor kanalları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/spor/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 35
+}

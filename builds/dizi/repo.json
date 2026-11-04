@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Dizi",
+  "description": "Yerli ve yabancı dizi kaynakları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dizi/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 43
+}

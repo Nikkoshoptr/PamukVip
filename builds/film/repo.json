@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Film",
+  "description": "Film ve sinema kaynakları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/film/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 51
+}

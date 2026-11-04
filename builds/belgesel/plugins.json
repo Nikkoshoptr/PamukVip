@@ -1,0 +1,63 @@
+[
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "version": 22,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/BelgeselX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Documentary"
+    ],
+    "authors": [
+      "PUU TV",
+      "PARS"
+    ],
+    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 33697,
+    "fileHash": "sha256-c681b1db7b44a17a5667e389e8bb7f45e6f2b29073471a62fedb67a96bdb47c0",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%"
+  },
+  {
+    "name": "DMAX",
+    "internalName": "DMAX",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DMAX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DMAX programları ve belgeselleri",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 24961,
+    "fileHash": "sha256-af61862cb6abe0e80c4e6a3cba0096b59c48b58b6e47436bf40eb4d1d0aae614",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.com.tr&sz=%size%"
+  },
+  {
+    "name": "DocumentaryArea",
+    "internalName": "DocumentaryArea",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DocumentaryArea.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Documentary"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 16015,
+    "fileHash": "sha256-208127e40d9b56c2e98528ad6bb95300d0c74368de21606f4a533b08620e527a",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128"
+  }
+]

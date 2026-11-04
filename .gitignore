@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Geçici dosyalar
+*.tmp
+*.bak
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini

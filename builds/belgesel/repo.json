@@ -1,0 +1,10 @@
+{
+  "name": "Pamuk Belgesel",
+  "description": "Belgesel arşivleri ve kanalları.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/belgesel/plugins.json"
+  ],
+  "lastUpdated": 1793806157,
+  "pluginCount": 3
+}

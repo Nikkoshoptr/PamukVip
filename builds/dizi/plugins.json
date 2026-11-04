@@ -1,0 +1,902 @@
+[
+  {
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AsyaWatch.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Asyawatch",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 43742,
+    "fileHash": "sha256-07cd6dceade096ee4114fb2ee582a6b9b23437f90fae29bdea84395255d27957",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%"
+  },
+  {
+    "name": "AtvDiziler",
+    "internalName": "AtvDiziler",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/AtvDiziler.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "atv.com.tr - atv dizileri (yeni + eski diziler, tüm bölümler, 1080p HLS)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 28015,
+    "fileHash": "sha256-9836d3d88f24df083ad5a4df8f1eecbc5abf410942e1c27aac5c25d09eb94ded",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=atv.com.tr&sz=128"
+  },
+  {
+    "name": "BirAsyaDizi",
+    "internalName": "BirAsyaDizi",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/BirAsyaDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Asya'nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n En ÃƒÆ’Ã†â€™Ãƒâ€¦Ã¢â‚¬Å“nlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ Dizilerini en yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ksek ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 26011,
+    "fileHash": "sha256-ce5eeae4d78de939a067354ba073dd4d6d818c8c94cb1a7327d5ba1de6fd60ae",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16"
+  },
+  {
+    "name": "CanliDizi",
+    "internalName": "CanliDizi",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CanliDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "CanlıDizi - Yerli diziler, dijital diziler, dizi arşivi, filmler ve TV şovları. Tek Parça / Tek Parça 2 oynatıcıları.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 42701,
+    "fileHash": "sha256-abbdef0c3fbcc9f05d83d48cff5a6b4130e2dbff38ee1ac3a399833e354aa01e",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=canlidizi14.com&sz=%size%"
+  },
+  {
+    "name": "DDizi",
+    "internalName": "DDizi",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/DDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 113110,
+    "fileHash": "sha256-3881353583d130d0a9b1346a24361ef46b99e1a9b0b6778089a2bbc1f4585090",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128"
+  },
+  {
+    "name": "DDiziMom",
+    "internalName": "DDiziMom",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DDiziMom.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DDiziMom - HAR tabanlı katalog ve Pilavyer HLS resolver",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 18847,
+    "fileHash": "sha256-83464d79dc2c7bea73cfd9c8f3a2261d40047360c5a63b16b5eb224529a7fe47"
+  },
+  {
+    "name": "DDiziPal",
+    "internalName": "DDiziPal",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DDiziPal.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DDiziPal film ve dizi kataloğu",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 18535,
+    "fileHash": "sha256-9927e3b8e9092216d742b1096ab9af943c7c957e4bd05ddf0a74bcb15f81a5dd",
+    "iconUrl": "https://ddizipal.com/favicon.ico"
+  },
+  {
+    "name": "DiziBal",
+    "internalName": "DiziBal",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziBal.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "En popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizileri yeni bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mleriyle takip edin. HBO, Netflix, Apple TV+ yapÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±mlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± olarak dizibaL'da!",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 22934,
+    "fileHash": "sha256-e225c5f4b8c94fd157c9ffbc3386b8aaa41c7e8131ab6a1dc5edd3a525211dbc",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128"
+  },
+  {
+    "name": "DiziBol",
+    "internalName": "DiziBol",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/DiziBol.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziBol; bazı filmlerde kaynak bulunmayabilir ve bu ayrıntı sayfasında belirtilir.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 139195,
+    "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128"
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "version": 20,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziBox.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "YabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± full hd izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz elit site..",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 45648,
+    "fileHash": "sha256-ae3dee2064c5f0697280769ff9c367f46a3178e1eddc56a955b484a5f46d2aa9",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%"
+  },
+  {
+    "name": "DiziFilmIzle",
+    "internalName": "DiziFilmIzle",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DiziFilmIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DiziFilmIzle",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 30166,
+    "fileHash": "sha256-8f60c98d07019ddbd4c0ffb692e7ebfdd96e8ae9380fd519a11277850111a40c",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizifilmizle.to&sz=%size%"
+  },
+  {
+    "name": "DiziGom",
+    "internalName": "DiziGom",
+    "version": 18,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziGom.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, kore, netflix dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± orijinal dilinde dizigom1 alt yazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleyebilir, sadece tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± en iyi yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± diziler ve filmler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda yorum yapabilirsiniz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 46357,
+    "fileHash": "sha256-ae6dadf2973ad0b8fefee410b295642575a127043482009bb42ffe5e3b9e7176",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%"
+  },
+  {
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziKorea.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "En GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncel Kore Dizileri izleme Sitesi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 23874,
+    "fileHash": "sha256-dbe8ee57b152c5fcb99e0b8a6d7e4fbfcdaf5fdfbbf65ff5570733f5a5c6c21b",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%"
+  },
+  {
+    "name": "DiziLife",
+    "internalName": "DiziLife",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziLife.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Dizi.life TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dizi/film izleme platformu ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± diziler, yeni filmler, son bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mler.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 17419,
+    "fileHash": "sha256-71b615053a243a34c3fe3b4677619e64b88caf10b234d0f76b7727e164041d2b",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%"
+  },
+  {
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "version": 13,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/Dizilla.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 268818,
+    "fileHash": "sha256-c4d4f28fcb00d3d917b7f2b70a3c7cb533875417464e1977c1f631eddfc19a83",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128"
+  },
+  {
+    "name": "DiziMag",
+    "internalName": "DiziMag",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziMag.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "En son ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±kan yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve filmleri DiziMag farkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±yla full hd 1080p kalitede izle. Dizimag GeniÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ ve gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncel arÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸iviyle dizi ve filmlerin tadÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±kartÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 57357,
+    "fileHash": "sha256-6b95aa2e8a23c010a14d3b6daf8460bf3f79d591776ddf5927939d55c106c31b",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%"
+  },
+  {
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "version": 13,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziMom.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Binlerce yerli yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi arÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ivi, tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m sezonlar, kesintisiz bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 32594,
+    "fileHash": "sha256-e70ac808bc9273ce216e7ae9d005adfc5f4e68fb771e663fc860a46ec82218e3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.wiki&sz=%size%"
+  },
+  {
+    "name": "Dizipal",
+    "internalName": "Dizipal",
+    "version": 16,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Dizipal.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "PUU TV"
+    ],
+    "description": "Dizipal - Dizi / Film (Netflix, BluTV, Exxen, Disney+). Turkce altyazi ve dublaj/orijinal ses.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 78199,
+    "fileHash": "sha256-7a591d8c3509bd78d55cd3801ef33d53d5c041c44a84e488a3dbb8b60f51fdaa",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2135.com&sz=%size%"
+  },
+  {
+    "name": "DiziPal",
+    "internalName": "DiziPal",
+    "version": 13,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziPal.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "DiziPal - GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncel domain ile yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve filmleri gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼venli ve hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde sunar.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37665,
+    "fileHash": "sha256-c777f1c552feacf06287003b52e425b433b392e4e3926ef9196d73953ccb3daf",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2142.com&sz=%size%"
+  },
+  {
+    "name": "DiziPal2",
+    "internalName": "DiziPal2",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziPal2.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "DiziPal2  en yeni dizileri gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼venli ve hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde sunar.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 36707,
+    "fileHash": "sha256-de863aa4b5397feca28d28adc02babb8da7e381cc4b2b525199d99901047ffc9",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%"
+  },
+  {
+    "name": "DiziPalHub",
+    "internalName": "DiziPalHub",
+    "version": 25,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/DiziPalHub.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 232194,
+    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png"
+  },
+  {
+    "name": "DiziPalOrijinal",
+    "internalName": "DiziPalOrijinal",
+    "version": 16,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DiziPalOrijinal.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "DiziPal Orijinal.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 51285,
+    "fileHash": "sha256-aabc0a97f36833001a4d7202d5662530a14ec83adfe3b3ac8239f1df4eeb3517",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128"
+  },
+  {
+    "name": "DiziPod",
+    "internalName": "DiziPod",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DiziPod.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DiziPod",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37845,
+    "fileHash": "sha256-32c5ca255547cf73ccd2397934b6b8be5a3fa5e778bd047469c39f872effc3c5",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%"
+  },
+  {
+    "name": "Dizirella",
+    "internalName": "Dizirella",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Dizirella.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "Dizirella dizi katalogu, sezonlar, bolumler ve 3 player HLS ve bolum listesi duzeltmesi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 31334,
+    "fileHash": "sha256-1484b8ff2e0d1dd95800500042cfdc85f4746213950c0cca9663dad2427b1fcb",
+    "iconUrl": "https://dizirella.net/favicon.ico"
+  },
+  {
+    "name": "DiziRella",
+    "internalName": "DiziRella",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/DiziRella.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 137139,
+    "fileHash": "sha256-7c1a63a96d49b750cbb6624813fa6b5089d175a96af19eea4ef83bd051f9fbcb",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128"
+  },
+  {
+    "name": "DiziSol",
+    "internalName": "DiziSol",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DiziSol.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "DiziSol - Dizi API -> Resolve Stream -> HLS",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 73553,
+    "fileHash": "sha256-586f3f02f4e5c4d7a3a3652a56d93c1ec17ef6db190a5bd063108b45eff9425e",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizisol.com&sz=%size%"
+  },
+  {
+    "name": "Dizitime",
+    "internalName": "Dizitime",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Dizitime.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "description": "Dizitime",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37709,
+    "fileHash": "sha256-d13a5dac915fff0a3f0688757085041ed09b63eff31555691ce3fe612ca520e1",
+    "iconUrl": "https://dizitime.co/favicon.ico"
+  },
+  {
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "version": 28,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DiziYou.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 21885,
+    "fileHash": "sha256-c27923d14272d4895ff79ab6e3221d053343f3f47ee9d67042ce7f3c0a4ab703",
+    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png"
+  },
+  {
+    "name": "DonkeyAltyazi",
+    "internalName": "DonkeyAltyazi",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DonkeyAltyazi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "punistek"
+    ],
+    "description": "Donkey — Filmler ve Diziler (1080p) + Türkçe altyazı",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 36196,
+    "fileHash": "sha256-ce705cff7da77b1db620a30a2f6ae48257ab1cc3e3f3a5082943d8c254518f07",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=donkey.to&sz=%size%"
+  },
+  {
+    "name": "DramaDizilerim",
+    "internalName": "DramaDizilerim",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DramaDizilerim.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "En popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler NetShort, DramaBox, ReelShort ve FreeReels kÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±sa dizilerini TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± seÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§enekleriyle Full HD kalitede ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼cretsiz ve reklamsÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z izleyin.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37251,
+    "fileHash": "sha256-bed1fca1a226e5174a2507ffa27888c4db08bace21230780a608176e6ea9be2e",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%"
+  },
+  {
+    "name": "HDFilmDiziIzle",
+    "internalName": "HDFilmDiziIzle",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/HDFilmDiziIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "HDFilmDiziİzle - Film + Dizi. Türkçe dublaj / altyazılı, çoklu kaynak (Roket, Cehennem, Vidrame, Dublaj).",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 69776,
+    "fileHash": "sha256-31d3890539bc6f3892c9dae5dc5ff09c74f66db15f2529532899eca533a93b38",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdiziizle.com&sz=%size%"
+  },
+  {
+    "name": "LiderDrama",
+    "internalName": "LiderDrama",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/LiderDrama.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "LiderDrama - Kısa dikey diziler. Türkçe dublaj ve Türkçe altyazılı.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27163,
+    "fileHash": "sha256-c18b5dba8eaaaeeb5cb05a9aeeff1c47f267fa76c6dd7c201518074dd3f46b69",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=liderdrama.com&sz=%size%"
+  },
+  {
+    "name": "MRC-Plus",
+    "internalName": "MRC-Plus",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/MRC-Plus.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "MRC-Plus ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ok kaynaklÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erik kataloÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸u (film, dizi).",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 192744,
+    "fileHash": "sha256-e000ba6728f5099af851fde9807040a99392e42b50a9de8a91b020e36d019eb8",
+    "iconUrl": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png"
+  },
+  {
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/SelcukFlix.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Selcukflix'te her tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rden en yeni ve en popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler dizi ve filmleri izlemenin keyfini ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±karÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n. Aksiyondan romantiÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸e, bilim kurgudan dramaya, geniÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼phanemizde herkes iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§in bir ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ey var",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 74045,
+    "fileHash": "sha256-d8c7cb43c93ce2084d58b2e7d405a3e6ed6febcb6fda767d89b87c65d5f43ef2",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%"
+  },
+  {
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "version": 10,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/SezonlukDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 124477,
+    "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128"
+  },
+  {
+    "name": "SezonlukDiziPars",
+    "internalName": "SezonlukDiziPars",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SezonlukDiziPars.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "SezonlukDizi (sezonlukdizi.cc) - Yabancı, yerli, asya dizileri, animasyon, anime, belgesel. Altyazı/Dublaj + 6 alternatif oynatıcı (Pixel, Streamruby, Okru, VidMoly, Filemoon, ABStream).",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 39882,
+    "fileHash": "sha256-534ba4b39c21301c5ff446188ddb1c7988071c003f6f9e3127bcdc3a460ecdf2",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%"
+  },
+  {
+    "name": "TRasyalog",
+    "internalName": "TRasyalog",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/TRasyalog.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TRasyalog izleme sitesi.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 24762,
+    "fileHash": "sha256-af76a45ecb7f377bf9ec5ba982918de2cc8a0e263427fb46c97dbb5d568c054e",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%"
+  },
+  {
+    "name": "TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/TrDiziIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 137065,
+    "fileHash": "sha256-b0d388ffe29d45bdf5f3feb06bc7721a4066c2e3c61453654c52612d385d14cd",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128"
+  },
+  {
+    "name": "TvDiziler",
+    "internalName": "TvDiziler",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/TvDiziler.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TvDiziler - Yerli diziler, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj/altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mler.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 39911,
+    "fileHash": "sha256-0f000b541157e93ae853e6dabe668ed5e6d2a692e2417d58bf9abb0ceb33408c",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%"
+  },
+  {
+    "name": "WebdramaTurkey2",
+    "internalName": "WebdramaTurkey2",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/WebdramaTurkey2.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "WebdramaTurkey2 iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erikleri",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 51636,
+    "fileHash": "sha256-4c4ecd9b3e6f8672a6426e6bf7072d74f8cb0641dd83fe171075c4f13c0b83f3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%"
+  },
+  {
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "version": 17,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/YabanciDizi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Son ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±kan yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve filmleri yabancidizi' de izle. En yeni yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film ve diziler, tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yada dublaj olarak 1080p kalitesinde hd izle.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 63799,
+    "fileHash": "sha256-e37d3bd490d12cb30dcb9d285e8e8e701288006ce33884b1eccf7db1d8c7e6eb",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%"
+  },
+  {
+    "name": "YabanciDizi2",
+    "internalName": "YabanciDizi2",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/YabanciDizi2.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "YabanciDizi.news - yabancı dizi ve film (Mac / VidMoly / Okru, altyazılı + dublaj)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 66984,
+    "fileHash": "sha256-844b1ab0ec41eea214ed7d3eb22b01f716b619fd23bba87d9f25820e770e0e05",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128"
+  },
+  {
+    "name": "YoTurkish",
+    "internalName": "YoTurkish",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/YoTurkish.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 21200,
+    "fileHash": "sha256-e8a549a4edf90a237567eafe7ffa8a934c840e92ab4106fc2b5cf073e8a7ccbc",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to"
+  }
+]

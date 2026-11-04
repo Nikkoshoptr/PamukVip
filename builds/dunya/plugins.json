@@ -1,0 +1,228 @@
+[
+  {
+    "name": "AnimeAV",
+    "internalName": "AnimeAV",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeAV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "mx",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Disfruta de los ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºltimos episodios y animes agregados en HD y Sub EspaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±ol. Miles de series, pelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­culas y OVAs disponibles para ver online totalmente gratis.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27763,
+    "fileHash": "sha256-de0252e7b492a0098a4e82c547428437dc4d336316170a113b098fd2a302f9bd",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com"
+  },
+  {
+    "name": "AnimeWorld",
+    "internalName": "AnimeWorld",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeWorld.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "it",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualitÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â , disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 14967,
+    "fileHash": "sha256-159268c8db94a80e3e7d44de35c8d3f46a2acb963cce1e1ce86dc2adca5361e8",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128"
+  },
+  {
+    "name": "AnimeYTX",
+    "internalName": "AnimeYTX",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/AnimeYTX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "mx",
+    "tvTypes": [
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡nete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡s popular de la animaciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n japonesa.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 45493,
+    "fileHash": "sha256-5c4fb85081557129fbea43cbc902c5614caf5d8a74024c4ea28af2591d403dbf",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128"
+  },
+  {
+    "name": "BasketballReplays",
+    "internalName": "BasketballReplays",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/spor/BasketballReplays.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "BasketballReplays Â· Full game replays (NBA, EuroLeague)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 160702,
+    "fileHash": "sha256-1b5f36ffb8c33a2e93317533287bc3fa02f0e5c577351f2c128a6efaae7d719b",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballReplays.png"
+  },
+  {
+    "name": "BasketballVideo",
+    "internalName": "BasketballVideo",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/spor/BasketballVideo.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "BasketballVideo Â· Game replays & highlights (AfiÅŸ destekli)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 170982,
+    "fileHash": "sha256-1114aa4a1ffda6b58c2dda5bbf7db27b6b12d1bec86d6de0881930d8e413d2d6",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballVideo.png"
+  },
+  {
+    "name": "DocumentaryArea",
+    "internalName": "DocumentaryArea",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/DocumentaryArea.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Documentary"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 16015,
+    "fileHash": "sha256-208127e40d9b56c2e98528ad6bb95300d0c74368de21606f4a533b08620e527a",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128"
+  },
+  {
+    "name": "SinemaTV",
+    "internalName": "SinemaTV",
+    "version": 9,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/SinemaTV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "az",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "SinemaTV · Azərbaycan və xarici filmlər, seriallar və cizgi filmləri.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 135132,
+    "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png"
+  },
+  {
+    "name": "Streamed",
+    "internalName": "Streamed",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Streamed.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Streamed ile CanlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Spor YayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zleyebilirsiniz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 33686,
+    "fileHash": "sha256-2d3a4762b939ddd7929a4a40139d4be455d182ee989121d55966c3250da7eb98",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128"
+  },
+  {
+    "name": "Supercartoons",
+    "internalName": "Supercartoons",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Supercartoons.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 11630,
+    "fileHash": "sha256-deedfee516a544e5f634dac850c6f97dcc881ab85a19fa4974c10d712f5a7af9",
+    "iconUrl": "https://i.imgur.com/LBfX2k3.png"
+  },
+  {
+    "name": "Watch2Movies",
+    "internalName": "Watch2Movies",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Watch2Movies.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27081,
+    "fileHash": "sha256-2f992ec4e53f037948ecdf512f95ff38fafb4ef53e6c6bc7a3b08af8a9bdac35",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%"
+  },
+  {
+    "name": "YoTurkish",
+    "internalName": "YoTurkish",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/YoTurkish.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 21200,
+    "fileHash": "sha256-e8a549a4edf90a237567eafe7ffa8a934c840e92ab4106fc2b5cf073e8a7ccbc",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to"
+  }
+]

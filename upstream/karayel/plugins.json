@@ -1,0 +1,22 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tabii.com&sz=%size%",
+    "fileHash": "sha256-fbfb2fd9783f9d7185ffeaa2ecd5a4cbabc1f4795b654e4b948bac10960af811",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/karayel90/cloudplug",
+    "fileSize": 71480,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "karayel90"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 37,
+    "internalName": "TabiiProvider",
+    "description": "Türkiye'nin canlı TV kanalları: tabii kanalları (TRT 1, TRT 2, TRT Spor, TRT Haber, TRT Çocuk, TRT Belgesel, TRT Müzik, TRT Türk, TRT Kürdi, TRT Arapî, TRT Avaz, TRT WORLD, TRT Genç, TRT eba), doğrudan HLS spor kanalları (beIN SPORTS, S Sport, Tivibu Spor) ve TR Kanalları (TV8, ATV, Star TV, DMAX ve daha fazlası; topluluk M3U listesinden otomatik güncellenir).",
+    "url": "https://raw.githubusercontent.com/karayel90/cloudplug/builds/TabiiProvider.cs3",
+    "name": "TabiiProvider"
+  }
+]

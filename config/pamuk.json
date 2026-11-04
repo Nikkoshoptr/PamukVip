@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "repo": {
+    "owner": "Nikkoshoptr",
+    "slug": "PamukVip",
+    "branch": "main",
+    "name": "Pamuk VIP",
+    "description": "Pamuk VIP — Türkçe CloudStream eklenti deposu. TV, spor, dizi, film, belgesel, anime, dünya ve 18+ başlıkları tek çatı altında.",
+    "pageUrl": "https://github.com/Nikkoshoptr/PamukVip"
+  },
+  "aggregateId": "pamuk-vip",
+  "groups": [
+    {
+      "id": "tv",
+      "name": "Pamuk TV",
+      "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
+      "order": 1
+    },
+    {
+      "id": "spor",
+      "name": "Pamuk Spor",
+      "description": "Canlı spor yayınları, maç linkleri ve spor kanalları.",
+      "order": 2
+    },
+    {
+      "id": "dizi",
+      "name": "Pamuk Dizi",
+      "description": "Yerli ve yabancı dizi kaynakları.",
+      "order": 3
+    },
+    {
+      "id": "film",
+      "name": "Pamuk Film",
+      "description": "Film ve sinema kaynakları.",
+      "order": 4
+    },
+    {
+      "id": "belgesel",
+      "name": "Pamuk Belgesel",
+      "description": "Belgesel arşivleri ve kanalları.",
+      "order": 5
+    },
+    {
+      "id": "anime",
+      "name": "Pamuk Anime",
+      "description": "Anime, çizgi dizi ve animasyon kaynakları.",
+      "order": 6
+    },
+    {
+      "id": "dunya",
+      "name": "Pamuk Dünya",
+      "description": "Türkçe dışı ve uluslararası içerik kaynakları.",
+      "order": 7
+    },
+    {
+      "id": "adult",
+      "name": "Pamuk Adult",
+      "description": "18+ yetişkin içerik kaynakları. Yalnızca reşit kullanıcılar içindir.",
+      "order": 8,
+      "adult": true
+    }
+  ],
+  "dedupe": {
+    "preferHighestVersion": true,
+    "sourcePriority": ["mrc", "turk", "pars", "spor", "karayel", "adult"]
+  },
+  "classification": {
+    "adultKeywords": [
+      "xxx", "porn", "xhamster", "spankbang", "tizam", "naughty", "hentai",
+      "erotic", "onlyfan", "nudes", "18eu", "deepfake", "rule34"
+    ],
+    "groupKeywords": {
+      "anime": ["anime", "cizgi", "cartoon", "animax"],
+      "belgesel": ["belgesel", "documentary", "dmax", "natgeo", "discovery"],
+      "dizi": ["dizi", "drama", "series", "korea", "asyadizi"],
+      "film": ["film", "sinema", "movie", "cine", "sine"],
+      "tv": ["kanal", "canli", "radyo", "tlc", "atv", "showtv", "startv", "tv8", "tabii", "huhutr"]
+    },
+    "sportKeywords": [
+      "spor", "sport", "sports", "goal", "taraftar", "streamed", "betmatik",
+      "jest", "mahsun", "papaz", "patron", "atom", "basketball", "football",
+      "iptv", "netv", "vion", "kool", "domates", "arda", "beyazelma",
+      "timstreams", "stbtv", "aslan", "koala", "ciftd2m", "newtvlive",
+      "trgoals", "mien"
+    ],
+    "pins": {}
+  }
+}

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# Eklenti paketleri ikili dosyadır; satır sonu dönüşümü yapılmamalı
+*.cs3 binary
+*.png binary

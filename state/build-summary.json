@@ -1,0 +1,145 @@
+{
+  "builtAt": "2026-11-04T18:29:17+03:00",
+  "rawBase": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main",
+  "mainRepoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/repo.json",
+  "mainPluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/pamuk-vip/plugins.json",
+  "totalUnique": 285,
+  "groups": [
+    {
+      "id": "tv",
+      "name": "Pamuk TV",
+      "description": "Canlı TV kanalları, radyo ve yayın merkezleri.",
+      "count": 25,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/tv/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/tv/repo.json"
+    },
+    {
+      "id": "spor",
+      "name": "Pamuk Spor",
+      "description": "Canlı spor yayınları, maç linkleri ve spor kanalları.",
+      "count": 35,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/spor/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/spor/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/spor/repo.json"
+    },
+    {
+      "id": "dizi",
+      "name": "Pamuk Dizi",
+      "description": "Yerli ve yabancı dizi kaynakları.",
+      "count": 43,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dizi/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dizi/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/dizi/repo.json"
+    },
+    {
+      "id": "film",
+      "name": "Pamuk Film",
+      "description": "Film ve sinema kaynakları.",
+      "count": 51,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/film/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/film/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/film/repo.json"
+    },
+    {
+      "id": "belgesel",
+      "name": "Pamuk Belgesel",
+      "description": "Belgesel arşivleri ve kanalları.",
+      "count": 3,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/belgesel/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/belgesel/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/belgesel/repo.json"
+    },
+    {
+      "id": "anime",
+      "name": "Pamuk Anime",
+      "description": "Anime, çizgi dizi ve animasyon kaynakları.",
+      "count": 12,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/anime/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/anime/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/anime/repo.json"
+    },
+    {
+      "id": "dunya",
+      "name": "Pamuk Dünya",
+      "description": "Türkçe dışı ve uluslararası içerik kaynakları.",
+      "count": 11,
+      "adult": false,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dunya/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/dunya/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/dunya/repo.json"
+    },
+    {
+      "id": "adult",
+      "name": "Pamuk Adult",
+      "description": "18+ yetişkin içerik kaynakları. Yalnızca reşit kullanıcılar içindir.",
+      "count": 117,
+      "adult": true,
+      "pluginsJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/adult/plugins.json",
+      "repoJson": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/builds/adult/repo.json",
+      "pageUrl": "https://github.com/Nikkoshoptr/PamukVip/blob/main/builds/adult/repo.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "pars",
+      "label": "PARS",
+      "title": "PARS CloudStream Builds",
+      "repoUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+      "count": 79,
+      "mirrored": 79,
+      "fallback": 0
+    },
+    {
+      "id": "spor",
+      "label": "SPOR",
+      "title": "WioSpor",
+      "repoUrl": "https://github.com/Wiojelt/WioSpor",
+      "count": 29,
+      "mirrored": 29,
+      "fallback": 0
+    },
+    {
+      "id": "turk",
+      "label": "TURK",
+      "title": "WioSinema",
+      "repoUrl": "https://github.com/Wiojelt/WioSinema",
+      "count": 37,
+      "mirrored": 37,
+      "fallback": 0
+    },
+    {
+      "id": "mrc",
+      "label": "MRC",
+      "title": "MRC - CloudStream Türkçe Eklenti Deposu",
+      "repoUrl": "https://github.com/lepotane/MRC-builds",
+      "count": 73,
+      "mirrored": 73,
+      "fallback": 0
+    },
+    {
+      "id": "karayel",
+      "label": "KARAYEL",
+      "title": "Türkçe Cloudstream Eklentileri",
+      "repoUrl": "https://github.com/karayel90/cloudplug",
+      "count": 1,
+      "mirrored": 1,
+      "fallback": 0
+    },
+    {
+      "id": "adult",
+      "label": "XXX +18",
+      "title": "Cs-GizliKeyif",
+      "repoUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+      "count": 110,
+      "mirrored": 110,
+      "fallback": 0
+    }
+  ]
+}

@@ -1,0 +1,1086 @@
+[
+  {
+    "name": "0 WioSinema",
+    "internalName": "WioSinema",
+    "version": 87,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/WioSinema.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 2392825,
+    "fileHash": "sha256-59810c5315ab1eb27270e0469b6f75986ef17e7b9c4dc89356572c3de13c23d3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png"
+  },
+  {
+    "name": "1 TurkishCineStream",
+    "internalName": "TurkishCineStream",
+    "version": 487,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/TurkishCineStream.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ],
+    "description": "Yerleşik CineStream kataloğu ve Türkçe altyazı kaynakları; ikinci eklenti indirmeden çalışır.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 840939,
+    "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png"
+  },
+  {
+    "name": "CineHD",
+    "internalName": "CineHD",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/CineHD.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "CineHD Film ve Dizi alt yazılıdır.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 60726,
+    "fileHash": "sha256-69b5aa78b721c85a348205ca4497020120cfa0e41d742ee44e81937c19dfc44f",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cinehd.vc&sz=%size%"
+  },
+  {
+    "name": "DublajFilmIzle",
+    "internalName": "DublajFilmIzle",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/DublajFilmIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "DublajFilmizle - Türkçe dublaj ve altyazılı film/dizi kataloğu (HotStream / bePlayer)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 33073,
+    "fileHash": "sha256-7fd0f1ac24889629581306d50680d7f2ebdb18fc562b7eec1bb2723b786f0aae",
+    "iconUrl": "https://dublajfilmizle.com/wp-content/uploads/2020/05/favicon-1.png"
+  },
+  {
+    "name": "FilmDozu",
+    "internalName": "FilmDozu",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/FilmDozu.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "FilmDozu",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 18793,
+    "fileHash": "sha256-881751c2aa6aa629cfbe6bd617d0d90b3397183de79c8bc9996fb1f384302bd2",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmdozu.com&sz=%size%"
+  },
+  {
+    "name": "FilmEkseni",
+    "internalName": "FilmEkseni",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/FilmEkseni.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Film Ekseni Vizyonda ki, en gÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ncel ve en yeni filmleri full hd kalitesinde tÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± seÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§enekleriyle 1080p olarak izleyebileceÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸iniz adresiniz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 44062,
+    "fileHash": "sha256-10e7581cc4697d39ccf79862c549f41aee98bb31b3f951c4d91e73d2c3b56f17",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%"
+  },
+  {
+    "name": "FilmIzleKing",
+    "internalName": "FilmIzleKing",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/FilmIzleKing.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "FilmIzleKing - HTML -> PlayTurka -> HLS (TR dublaj/altyazı)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 33917,
+    "fileHash": "sha256-e854624718f26f83174fa3f23ce2d796d182a0dbb93f04e096f0b64f5ab261e4",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizleking.com&sz=%size%"
+  },
+  {
+    "name": "FilmizleTv",
+    "internalName": "FilmizleTv",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/FilmizleTv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "FilmizleTV - Türkçe dublaj ve altyazılı film/dizi (VidMixi / bePlayer HLS + altyazı)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 43661,
+    "fileHash": "sha256-6ae1ef9f8c036abf04870b89d6de2ef01068723e209369864cdeaccc12d8811d",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizletv.to&sz=128"
+  },
+  {
+    "name": "FilmIzyon",
+    "internalName": "FilmIzyon",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/FilmIzyon.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Yerli ve yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m filmleri TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj veya Orjinal dilde izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en kaliteli film izleme platformuna hoÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸geldiniz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 33227,
+    "fileHash": "sha256-5b853a3a2d49bcf3e6bc5b691118257990cd735859bb16c993a194de3836e681",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64"
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/FilmMakinesi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 113424,
+    "fileHash": "sha256-cfb9a5c375351f8a1adc97a4c5482c7d4bba1fde55925f6f0e09ca2a9705ef03",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128"
+  },
+  {
+    "name": "Filmmodu",
+    "internalName": "Filmmodu",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Filmmodu.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "Filmmodu film kaynağı",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 42402,
+    "fileHash": "sha256-366d3ddc777da408c11c960d94e517ac7cda9d09828c66fb5b0001a51df541d2",
+    "iconUrl": "https://filmmodu.cc/favicon-192x192.png"
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/FilmModu.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 111444,
+    "fileHash": "sha256-e8dd82237e3398b260413768f3fab981b4fb582211a945dd14b22f0b98058c8b",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png"
+  },
+  {
+    "name": "fragileTV",
+    "internalName": "Sinewix",
+    "version": 17,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/Sinewix.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "fragileTV · Film, Dizi ve Animasyon arşivi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 136874,
+    "fileHash": "sha256-effda5645405e2c522f984dd80aa3efd75d21033028c1b9ecefb9778693fee9a",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png"
+  },
+  {
+    "name": "FullHDFilm",
+    "internalName": "FullHDFilm",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/FullHDFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 119671,
+    "fileHash": "sha256-5aa2f17318f714cce7348c06b05e8920bab931cae9aec8a04fb0e982fc43bece",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128"
+  },
+  {
+    "name": "FullHDFilmizle",
+    "internalName": "FullHDFilmizle",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/FullHDFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "FullHDFilmizle provider",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 32636,
+    "fileHash": "sha256-ac5793d5cf88c01fd2fe05894281e754e89a7e369e84f770fe48549a927c9a6f",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizle.now&sz=%size%"
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "version": 10,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/FullHDFilmizlesene.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 137274,
+    "fileHash": "sha256-554a50415dd1356d3f4ab65ca252243a481032f53fb6e5814deff2d95fa528b9",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128"
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "version": 51,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/HDFilmCehennemi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUU",
+      "PARS"
+    ],
+    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 42996,
+    "fileHash": "sha256-cf40ecd405dae1f9bcbe82667531a46a18af88fb46cd0dd2fa119c2936088895",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%"
+  },
+  {
+    "name": "HdFilmCehennemi2",
+    "internalName": "HdFilmCehennemi2",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/HdFilmCehennemi2.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "HdFilmCehennemi2 - Alternatif yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ksek kalitede film izleme sitesi.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 30786,
+    "fileHash": "sha256-cdbc1b7e46f787ba7575820fdea5eb0f5b8882ec1d16560b160a2c4e8c582d68",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=%size%"
+  },
+  {
+    "name": "HDFilmCehennemiYedek",
+    "internalName": "HDFilmCehennemiYedek",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/HDFilmCehennemiYedek.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "HDFilmCehennemi Yedek - Film, Dizi, IMDb ve Popüler",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 42244,
+    "fileHash": "sha256-c44fa894d58abfa250706f8c65cea5952b8e6dd0e96a80d8ac43a9f054eb9943",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.land&sz=%size%"
+  },
+  {
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "version": 16,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/HDFilmDelisi.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Dublaj ve altyazÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±lÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± HD filmler ve diziler (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 29025,
+    "fileHash": "sha256-47ad511685a1dbfc95cf4d1ec8772d8bd846900ea7d8db46d4d5834e858bdbb9",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one"
+  },
+  {
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/HDFilmizleBest.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "HDFilmizleBest - Film ve Dizi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 19284,
+    "fileHash": "sha256-1c1fd752712f711ab4985ac49590148c3b1a296370f83b9c36b66b378c1b6411",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=%size%"
+  },
+  {
+    "name": "HDFilmIzleInk",
+    "internalName": "HDFilmIzleInk",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/HDFilmIzleInk.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 132138,
+    "fileHash": "sha256-e79a966fa1fae26f9ca37be24150a22b186e8c74b8557c995b813ae5f596fb5f",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128"
+  },
+  {
+    "name": "HDFilmIzleVip",
+    "internalName": "HDFilmIzleVip",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/HDFilmIzleVip.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 132156,
+    "fileHash": "sha256-934583ab1da754f0a5fdf27ac91f2398e8ef7f844470e716ff50f087c66f90d3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128"
+  },
+  {
+    "name": "Izle720",
+    "internalName": "Izle720",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Izle720.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "720izle film kaynagindan",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 29862,
+    "fileHash": "sha256-e48b2d32995f622a2cab7ae474cedac78401a44be7ea76c393b0f3b85b173870",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=720izle.com&sz=%size%"
+  },
+  {
+    "name": "IzleseneFilm",
+    "internalName": "IzleseneFilm",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/IzleseneFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "İzlesene Film - Türkçe dublaj ve altyazılı film arşivi (IFPlayer + Moly + MailRu, otomatik yedek)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 59043,
+    "fileHash": "sha256-7881fbb948e816290da0495b96804978b4242b806e84c1b65cc4332b081114e5",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=izlesene.film&sz=%size%"
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "version": 15,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/JetFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "JetFilmizle V14 - APP: film/dizi, Türkçe katalog, gerçek sayfalama, sezon-bölüm, çoklu oynatıcı",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 69707,
+    "fileHash": "sha256-02a893917afcb9a6728287a05fcd181b68cc3fdfc4096a86235a44343b245a26",
+    "iconUrl": "https://jetfilmizle.app/favicon.ico"
+  },
+  {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/KultFilmler.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "SeÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§kin kÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼lt film ve dizi arÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ivi (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 51766,
+    "fileHash": "sha256-a64f4a1de5ea36e1e3358fb8bd537648fdf0a2971503c79e78c46896ef0502df",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net"
+  },
+  {
+    "name": "LiderFilm",
+    "internalName": "LiderFilm",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/LiderFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "LiderFilm - Film / Dizi. Yerli, Kore, Hint, Asya kategorileri. Turkce/Ingilizce altyazi, dublaj/orijinal ses.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 47954,
+    "fileHash": "sha256-9e2fd5a94a93070a54963d33770c5c0b3c228a2d37502466675180ef2ca9b783",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.vip&sz=%size%"
+  },
+  {
+    "name": "LiderFilmIzle",
+    "internalName": "LiderFilmIzle",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/LiderFilmIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 137142,
+    "fileHash": "sha256-3547650abc3b787462fb290f6ed3e545dff4e92fdbf8b413b7408506dcff16b4",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128"
+  },
+  {
+    "name": "LoveFilm",
+    "internalName": "LoveFilm",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/LoveFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Full HD Film izle - TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Film izleme sitesi olarak sizlere yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yerli filmleri yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ksek kalitede sunmakdayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z. Kaliteli film izle sitesi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 36398,
+    "fileHash": "sha256-adcae75fbbf018f1bdf90123c666b32f18492733b7562e0709569c449fe3bd81",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%"
+  },
+  {
+    "name": "LoveFilmizle",
+    "internalName": "LoveFilmizle",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/LoveFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "LoveFilmizle - film ve dizi (VidMoly / Okru / Videa / Mail.ru, dublaj + altyazı)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 56432,
+    "fileHash": "sha256-560c03645bb59f4e5bb3b59c1a9b7c711c28f4c641e0c0defce9dbd72881ed85",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=lovefilmizle.net&sz=128"
+  },
+  {
+    "name": "PowerSinema",
+    "internalName": "PowerSinema",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/PowerSinema.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 127254,
+    "fileHash": "sha256-8a946b6541ef9226556df4ae421b0b2449bd97607241a5de7942bd6e2bd2207c",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png"
+  },
+  {
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/RareFilmm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Unutulmaz nadir filmler arsivi (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 20230,
+    "fileHash": "sha256-8a736fc7796a5690369e5cb4182a8219d96cd98ac6fd9b92e79c80f9581a272d",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com"
+  },
+  {
+    "name": "RFilmizle",
+    "internalName": "RFilmizle",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/RFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "RFilmizle (Limon Film) - film ve dizi, HotStream (beHLS) oynatıcı, Türkçe altyazı",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 40622,
+    "fileHash": "sha256-547a1154d90928c8c25ba062c8a582adc90cc410a150f97d416aafbb8f276ec1",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rfilmizle.com&sz=128"
+  },
+  {
+    "name": "SetFilm",
+    "internalName": "SetFilm",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SetFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "SetFilm - Son Filmler, IMDb En İyiler ve Diziler",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 52943,
+    "fileHash": "sha256-108601caf96466e9b2c8711687d3f924ef29b06cc8f26a1a50da4bf076fe898a",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=setfilmizle.ltd&sz=%size%"
+  },
+  {
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/SetFilmIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 119285,
+    "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128"
+  },
+  {
+    "name": "SineFilmizlesen",
+    "internalName": "SineFilmizlesen",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SineFilmizlesen.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "SineFilmizlesen film kaynağı",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 20152,
+    "fileHash": "sha256-a188ef0579724d3c04d6de845dc20c1d6762040fc9ee17a2461acd1d50980ae4",
+    "iconUrl": "https://www.sinefilmizlesen.cc/favicon.ico"
+  },
+  {
+    "name": "Sinefy",
+    "internalName": "Sinefy",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Sinefy.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "YabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izle olarak vizyondaki en yeni yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± filmleri tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± olarak en hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde full hd olarak sizlere sunuyoruz.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 44009,
+    "fileHash": "sha256-baa0e07b7e591295e3329381b711b6fe30c0b42dc57b3b224dfffdbc12b99c82",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128"
+  },
+  {
+    "name": "SinekFilmizle",
+    "internalName": "SinekFilmizle",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SinekFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PUUTV"
+    ],
+    "description": "SinekFilmizle - Türkçe dublaj ve altyazılı filmler (Playturka oynatıcı, çoklu ses + altyazı)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 32494,
+    "fileHash": "sha256-7fbf7f572ae37dd8b81eacb2fe7d41337dbd60971657833b2b0ad9cdfa62c1d6",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinekfilmizle.net&sz=128"
+  },
+  {
+    "name": "SinemaCC",
+    "internalName": "SinemaCC",
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SinemaCC.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "SinemaCC",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 25067,
+    "fileHash": "sha256-008a7cd28f3c39ab9cdb3800d2095ed80f5ec74dce22b32f00a63394caf87712",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=%size%"
+  },
+  {
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "version": 7,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/SinemaCX.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj HD yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± filmler (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 18556,
+    "fileHash": "sha256-cc8a978fa04dc297ddb57e152c6109a553d7d19932e01f5ab1d2f57e6b4f2387",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com"
+  },
+  {
+    "name": "SinemaIzle",
+    "internalName": "SinemaIzle",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/SinemaIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "punistek"
+    ],
+    "description": "sinemaizle.org — Film & Yabancı Dizi (vidmixi, Türkçe dublaj/altyazı)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 38667,
+    "fileHash": "sha256-3fa8c3d4ca86785a6d841820a9d0b253eab7d0a6f9b0750aa98debf81377d659",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemaizle.org&sz=%size%"
+  },
+  {
+    "name": "Sinemakolik",
+    "internalName": "Sinemakolik",
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/Sinemakolik.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "Sinemakolik film kaynagi - VidMixi resolver",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 37512,
+    "fileHash": "sha256-54047ce84e55503c7f3696abb38a37e0327995c64f2c6322b11302fb36a67d34",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=%size%"
+  },
+  {
+    "name": "SinemaTV",
+    "internalName": "SinemaTV",
+    "version": 9,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/SinemaTV.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "az",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "SinemaTV · Azərbaycan və xarici filmlər, seriallar və cizgi filmləri.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 135132,
+    "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png"
+  },
+  {
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/SineWix.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "SineWix | Film - Dizi - Anime ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zleme UygulamasÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 30741,
+    "fileHash": "sha256-5b3031a730a1c75b905d2a076f899cbb9fd63d754ab2f785005904b7b91e06a1",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%"
+  },
+  {
+    "name": "Sinezy",
+    "internalName": "Sinezy",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Sinezy.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "HD film izleme keyfi (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 42111,
+    "fileHash": "sha256-1693c3fbe69c1c3b871eb240dfcc0d5ea72e866d16298ad736059ae151e0217e",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to"
+  },
+  {
+    "name": "UltraFilmizle",
+    "internalName": "UltraFilmizle",
+    "version": 14,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/UltraFilmizle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "UltraFilmizle - 1080p ve 4K yerli/yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleme.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 30874,
+    "fileHash": "sha256-a71ec7703b4e7fdc3658ae391f16fe952e433933f239e20ffd3923157a801b44",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ufilmizle.com/&size=128"
+  },
+  {
+    "name": "Watch2Movies",
+    "internalName": "Watch2Movies",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/Watch2Movies.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27081,
+    "fileHash": "sha256-2f992ec4e53f037948ecdf512f95ff38fafb4ef53e6c6bc7a3b08af8a9bdac35",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%"
+  },
+  {
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "version": 15,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/turk/WebteIzle.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 119167,
+    "fileHash": "sha256-fe93e5d1cdf057ca5a1bfbf6a770653750ba6b36e7465692e0309895f3f51d49",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128"
+  },
+  {
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/mrc/YesilCamTv.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "authors": [
+      "MRC"
+    ],
+    "description": "Yesilcam klasikleri arsivi (MRC)",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 19214,
+    "fileHash": "sha256-09c31e1b829a689ddee2884c87c82c9755a34dbd87b2ad229fe652e5070021e2",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr"
+  },
+  {
+    "name": "YouTubeFilm",
+    "internalName": "YouTubeFilm",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Nikkoshoptr/PamukVip/main/plugins/pars/YouTubeFilm.cs3",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Documentary",
+      "Cartoon",
+      "Others"
+    ],
+    "authors": [
+      "PARS"
+    ],
+    "description": "YouTube'daki filmler, müzikler, belgeseller ve çocuk içerikleri YouTube oynatıcısıyla açılır.",
+    "repositoryUrl": "https://github.com/Nikkoshoptr/PamukVip",
+    "fileSize": 27089,
+    "fileHash": "sha256-90c8a92bb4e98d9aa2e562c0ab5ae9edb65f3b8a849958a867bb738d88bb94d9",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%"
+  }
+]
