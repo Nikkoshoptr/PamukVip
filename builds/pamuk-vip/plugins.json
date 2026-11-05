@@ -8,7 +8,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime"
     ],
     "authors": [
       "Wiojelt"
@@ -28,7 +30,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -48,7 +50,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Others"
     ],
     "authors": [
       "PARS TV"
@@ -68,7 +70,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
     "authors": [
       "Wiojelt",
@@ -89,7 +94,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -249,7 +254,7 @@
     "apiVersion": 1,
     "language": "mx",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -269,7 +274,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -289,7 +294,7 @@
     "apiVersion": 1,
     "language": "it",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -309,7 +314,7 @@
     "apiVersion": 1,
     "language": "mx",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -329,7 +334,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Anime",
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -349,7 +355,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -369,7 +375,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -389,7 +395,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -409,7 +415,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -429,7 +435,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -449,7 +456,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -469,7 +476,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -489,7 +497,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -549,7 +557,8 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "Others"
     ],
     "authors": [
       "Wiojelt"
@@ -569,7 +578,8 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "Others"
     ],
     "authors": [
       "Wiojelt"
@@ -609,7 +619,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Documentary"
     ],
     "authors": [
       "PUU TV",
@@ -630,7 +640,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -650,7 +660,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -670,7 +680,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "AsianDrama"
     ],
     "authors": [
       "MRC"
@@ -730,7 +740,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -750,7 +761,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PUUTV"
@@ -770,7 +781,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PUUTV"
@@ -790,7 +801,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -810,7 +822,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PUUTV"
@@ -851,7 +863,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -871,7 +884,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Cartoon",
+      "Anime",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -891,7 +906,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Cartoon",
+      "Anime",
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -911,7 +928,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Cartoon",
+      "TvSeries",
+      "Movie",
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -1012,7 +1032,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -1032,7 +1055,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1051,7 +1075,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1091,7 +1116,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -1111,7 +1138,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "Wiojelt"
@@ -1131,7 +1159,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -1151,7 +1179,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1171,7 +1200,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -1191,7 +1221,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "AsianDrama"
     ],
     "authors": [
       "MRC"
@@ -1211,7 +1241,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1231,7 +1262,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -1251,7 +1285,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1271,7 +1305,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1291,7 +1326,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "PUU TV"
@@ -1311,7 +1347,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -1331,7 +1368,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1351,7 +1389,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -1371,7 +1412,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1391,7 +1432,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1411,7 +1453,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -1431,7 +1473,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -1451,7 +1496,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1471,7 +1516,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "keyiflerolsun"
@@ -1491,7 +1536,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1511,7 +1556,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -1531,7 +1576,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Documentary",
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -1551,7 +1598,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Documentary",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -1571,7 +1619,7 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Documentary"
     ],
     "authors": [
       "MRC"
@@ -1631,7 +1679,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -1651,7 +1699,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "punistek"
@@ -1671,7 +1720,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1691,7 +1740,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -1711,7 +1761,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PUUTV"
@@ -1952,7 +2002,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -1972,7 +2022,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -1992,7 +2043,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -2012,7 +2063,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -2032,7 +2084,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -2052,7 +2104,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2072,7 +2127,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -2092,7 +2147,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2132,7 +2190,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2192,7 +2253,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2212,7 +2276,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -2232,7 +2297,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2332,7 +2400,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUU",
@@ -2353,7 +2422,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -2373,7 +2442,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -2393,7 +2463,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -2413,7 +2484,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -2433,7 +2505,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -2453,7 +2526,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2473,7 +2549,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -2614,7 +2693,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -2634,7 +2713,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -2654,7 +2735,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -2674,7 +2755,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -2775,7 +2856,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -2795,7 +2876,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -2835,7 +2917,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -2855,7 +2938,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -2875,7 +2958,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -2954,7 +3037,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -2974,7 +3057,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -2994,7 +3078,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3014,7 +3098,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -3034,7 +3118,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -3054,7 +3139,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -3095,7 +3183,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -3115,7 +3204,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -3155,7 +3245,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3217,7 +3307,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3277,7 +3367,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -3317,7 +3407,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -3357,7 +3448,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3377,7 +3468,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3457,7 +3548,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -3497,7 +3588,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3517,7 +3608,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -3537,7 +3628,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -3556,7 +3647,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -3576,7 +3667,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -3596,7 +3687,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3857,7 +3948,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -3877,7 +3970,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "punistek"
@@ -3897,7 +3990,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live",
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -3917,7 +4012,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "PARS"
@@ -3957,7 +4052,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -3977,7 +4072,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -3997,7 +4094,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "Live",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -4037,7 +4136,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -4137,7 +4237,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -4157,7 +4258,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -4177,7 +4278,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -4197,7 +4299,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -4257,7 +4362,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -4277,7 +4385,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -4297,7 +4405,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PARS"
@@ -4317,7 +4425,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -4357,7 +4466,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -4377,7 +4486,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -4397,7 +4507,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -4417,7 +4527,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -4437,7 +4547,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -4457,7 +4567,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "punistek"
@@ -4477,7 +4588,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -4497,7 +4608,10 @@
     "apiVersion": 1,
     "language": "az",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
     ],
     "authors": [
       "Wiojelt"
@@ -4517,7 +4631,9 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime"
     ],
     "authors": [
       "MRC"
@@ -4537,7 +4653,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -4578,7 +4694,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "PUUTV"
@@ -4598,7 +4714,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -4618,7 +4734,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -4638,7 +4754,7 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -4658,7 +4774,7 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Cartoon"
     ],
     "authors": [
       "MRC"
@@ -4698,7 +4814,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "karayel90"
@@ -4718,7 +4834,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -4758,7 +4874,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -4798,7 +4914,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -4818,7 +4935,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "PARS"
@@ -4838,7 +4955,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -4858,7 +4978,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -4878,7 +4998,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
     "authors": [
       "Wiojelt"
@@ -4898,7 +5021,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
@@ -5018,7 +5141,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Live"
     ],
     "authors": [
       "MRC"
@@ -5038,7 +5162,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -5058,7 +5182,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -5138,7 +5263,8 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -5198,7 +5324,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
     ],
     "authors": [
       "MRC"
@@ -5218,7 +5347,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "Wiojelt"
@@ -5541,7 +5670,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -5561,7 +5690,8 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "TvSeries",
+      "Movie"
     ],
     "authors": [
       "PUUTV"
@@ -5581,7 +5711,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie"
     ],
     "authors": [
       "MRC"
@@ -5621,7 +5751,7 @@
     "apiVersion": 1,
     "language": "en",
     "tvTypes": [
-      "NSFW"
+      "TvSeries"
     ],
     "authors": [
       "MRC"
@@ -5681,7 +5811,10 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "Documentary",
+      "Cartoon",
+      "Others"
     ],
     "authors": [
       "PARS"
@@ -5701,7 +5834,7 @@
     "apiVersion": 1,
     "language": "tr",
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
     "authors": [
       "Wiojelt"
